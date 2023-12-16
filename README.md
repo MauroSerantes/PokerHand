@@ -1,2 +1,2 @@
 # PokerHand
-program that checks the winner in a random poker hand.
+Program that checks the winner in a random poker hand. It Use swing graphic interface.
